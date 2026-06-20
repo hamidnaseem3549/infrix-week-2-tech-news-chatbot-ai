@@ -14,7 +14,7 @@
 
 ## 🎯 Project Overview
 
-This project was built as part of the **AI & Automation Internship @Infrix (Week-2 Task)**:
+This project was built as part of the **AI & Automation Internship @Infrix (Week-2 & 3 Task)**:
 
 > *"Scrape data from any website, build an AI-powered chatbot using the collected data, and share your GitHub repository."*
 
