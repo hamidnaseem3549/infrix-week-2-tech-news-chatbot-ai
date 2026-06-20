@@ -14,7 +14,7 @@
 
 ## 🎯 Project Overview
 
-This project was built as part of the **Infrix Remote Internship (Week 1 Task)**:
+This project was built as part of the **Infrix Remote Internship (Week-2 Task)**:
 
 > *"Scrape data from any website, build an AI-powered chatbot using the collected data, and share your GitHub repository."*
 
@@ -32,7 +32,7 @@ The chatbot scrapes real technology articles from [BBC Technology](https://www.b
 │       │                                                     │
 │       ▼                                                     │
 │  scraper.py  ──────────────────►  data/articles.json        │
-│  (BeautifulSoup)                  (40–60 articles)          │
+│  (BeautifulSoup)                  (10–50 articles)          │
 │                                         │                   │
 │                                         ▼                   │
 │  User Query ──► retrieve()  ──► Top-K Articles              │
@@ -98,8 +98,8 @@ The dependency set in this repo was validated on Python 3.13 and 3.14 in this wo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hamidnaseem47/dawn-tech-chatbot.git
-cd dawn-tech-chatbot
+git clone https://github.com/hamidnaseem3549/infrix-week-2-tech-news-chatbot.git
+cd infrix-week-2-tech-news-chatbot
 ```
 
 ### 2. Install dependencies
@@ -149,12 +149,11 @@ If your shell already exposes the Streamlit launcher, `streamlit run app.py` als
 
 Once running, try asking:
 
-- *"What AI developments are happening in Pakistan?"*
-- *"Tell me about the latest tech startups mentioned in Dawn"*
-- *"What are recent cybersecurity threats reported?"*
-- *"Any news about 5G or telecom expansion in Pakistan?"*
-- *"What government tech initiatives are being discussed?"*
-- *"Latest news about smartphones or gadgets?"*
+- *"What are the concerns about delivery robots?"*
+- *"What does the article say about children and the social media ban?"*
+- *"What are the main points about AI data centres in Northumberland?"*
+- *"Why are police warning about deepfakes?"*
+- *"What does the article say about driverless cars in London?"*
 
 ---
 
@@ -186,9 +185,6 @@ This is intentionally simple and fast — adding semantic search (sentence-trans
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here after running the app — see `screenshots/` folder)*
 
 ---
 
