@@ -1,6 +1,7 @@
 # Environment — never commit your API key
 .env
 
+
 # Python
 __pycache__/
 *.pyc
