@@ -1,6 +1,6 @@
 # 📰 Tech News Chatbot
 
-> An AI-powered chatbot that scrapes technology news from **BBC Technology** and answers questions using a **RAG (Retrieval-Augmented Generation)** architecture powered by **Groq**.
+> An AI-powered chatbot that scrapes technology news from **BBC Technology** and answers questions using a **RAG (Retrieval-Augmented Generation)** architecture powered by **Groq AI**.
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## 🎯 Project Overview
 
-This project was built as part of the **Infrix Remote Internship (Week-2 Task)**:
+This project was built as part of the **AI & Automation Internship @Infrix (Week-2 Task)**:
 
 > *"Scrape data from any website, build an AI-powered chatbot using the collected data, and share your GitHub repository."*
 
@@ -194,7 +194,7 @@ This is intentionally simple and fast — adding semantic search (sentence-trans
 
 **Hamid Naseem**
 - 🎓 BS Computer Science — Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST), Haripur
-- 💼 Remote Intern — Infrix (Summer 2026)
+- 💼 AI Intern — Infrix (Summer 2026)
 - 🎯 Building toward an AI Engineering career
 
 ---
