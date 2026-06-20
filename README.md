@@ -157,16 +157,7 @@ Once running, try asking:
 
 ---
 
-## 📸 Screenshots
 
-### Chatbot UI — Home Screen
-![Chatbot UI 1](screenshots/ui1.png)
-
-### Chatbot UI — Answering a Query
-![Chatbot UI 2](screenshots/ui2.png)
-
-
----
 
 ## 🔍 How the Retrieval Works
 
